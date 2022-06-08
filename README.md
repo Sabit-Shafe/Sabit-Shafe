@@ -1,10 +1,3 @@
-### Hi there 👋
-- 🌱 I’m Abdullah Sabit Shafe currently learning Web Development 
-
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://ibb.co/c8s75gs" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 ### Hi there 👋
 - 🌱 I’m Abdullah Sabit Shafe currently learning Web Development  👋
