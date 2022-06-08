@@ -70,11 +70,10 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sabit-Shafe)](https://github.com/Sabit-Shafe)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabit-Shafe&theme=synthwave&logo_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabit-Shafe&layout=compact)](https://github.com/Sabit-Shafe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabit-Shafe&theme=synthwave&logo_icons=true)](https://github.com/Sabit-Shafe)
 
 <!--
 **Sabit-Shafe/Sabit-Shafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
