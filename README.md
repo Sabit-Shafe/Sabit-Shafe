@@ -57,7 +57,6 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 
 
 </br>
@@ -73,7 +72,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sabit-Shafe)](https://github.com/Sabit-Shafe)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabit-Shafe&theme=synthwave_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabit-Shafe&theme=synthwave&logo_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabit-Shafe&layout=compact)](https://github.com/Sabit-Shafe)
 
